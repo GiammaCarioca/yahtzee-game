@@ -123,6 +123,7 @@ class ScoreTable extends Component {
 						</tbody>
 					</table>
 				</section>
+				<h2>TOTAL SCORE: {this.getTotalScore()}</h2>
 			</div>
 		);
 	}
